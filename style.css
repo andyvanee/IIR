@@ -1,0 +1,40 @@
+body, html {
+    font-family: monospace;
+    font-size: 18px;
+}
+
+body {
+    max-width: 42em;
+    margin: 1em auto;
+    padding: 2em;
+}
+
+ul {
+    list-style-type: square;
+}
+
+a {
+    color: #09A;
+    text-decoration: none;
+}
+
+h1, h2, h3, h4 {
+    font-size: 1em;
+    color: #259;
+}
+
+.note {
+    font-size: 0.3em;
+    border: 1px solid #999;
+    margin-top: -1px;
+    color: white;
+    background-color: #666;
+}
+
+.stat {
+    line-height: 1;
+    margin: 0 0.2em;
+    min-width: 100px;
+    min-height: 1em;
+    display: inline-block;
+}
