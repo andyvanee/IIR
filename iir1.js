@@ -1,3 +1,3 @@
-import { loop } from './src/iir.js';
+import { loop } from './src/iir1.js';
 
 loop(400);
